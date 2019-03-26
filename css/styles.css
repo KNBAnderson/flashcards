@@ -1,0 +1,22 @@
+.row {
+  padding: 20px;
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
+
+.col-lg-3 {
+  width: 23%;
+  height: 270px;
+  border: 3px solid blue;
+  text-align: center;
+  margin: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  cursor: alias;
+}
+.col-lg-3 p{
+  display: none;
+
+}
